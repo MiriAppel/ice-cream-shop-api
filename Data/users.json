@@ -1,0 +1,12 @@
+[
+    {"userName": "Avi", "userId": 100, "password": "1234"},
+    {"userName": "Moshe", "userId": 101, "password": "2323"},
+    {"userName": "Chaim", "userId": 102, "password": "7878"},
+    {"userName": "Zeev", "userId": 103, "password": "54553"},
+    {"userName": "David", "userId": 104, "password": "3365"},
+    {"userName": "Beni", "userId": 105, "password": "66325"},
+    {"userName": "Yaakov", "userId": 106, "password": "5214"},
+    {"userName": "Yair", "userId": 107, "password": "632"},
+    {"userName": "Eli", "userId": 108, "password": "65247"},
+    {"userName": "Yossi", "userId": 109, "password": "254"}
+]

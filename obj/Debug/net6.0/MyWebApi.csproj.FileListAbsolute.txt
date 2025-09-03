@@ -1,0 +1,7 @@
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.AssemblyInfo.cs
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net6.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache

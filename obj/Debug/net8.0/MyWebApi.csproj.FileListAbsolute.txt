@@ -1,0 +1,130 @@
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\appsettings.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.exe
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.deps.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.runtimeconfig.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.pdb
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfo.cs
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApi.props
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\scopedcss\bundle\MyWebApi.styles.css
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\refint\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\MyWebApi.staticwebassets.runtime.json
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.AssemblyReference.cache
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfoInputs.cache
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfo.cs
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.CoreCompileInputs.cache
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.dll
+D:\core\MyWebApi\obj\Debug\net8.0\refint\MyWebApi.dll
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
+D:\core\MyWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\core\MyWebApi\bin\Debug\net8.0\appsettings.json
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.staticwebassets.runtime.json
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.exe
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.deps.json
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.runtimeconfig.json
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.dll
+D:\core\MyWebApi\bin\Debug\net8.0\MyWebApi.pdb
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApi.props
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+D:\core\MyWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\core\MyWebApi\obj\Debug\net8.0\scopedcss\bundle\MyWebApi.styles.css
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.Up2Date
+D:\core\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
+D:\core\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Data\iceCreams.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Data\users.json
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\ולדמן לאה\core\MyWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.CopyComplete
+D:\core\MyWebApi\bin\Debug\net8.0\Data\iceCreams.json
+D:\core\MyWebApi\bin\Debug\net8.0\Data\users.json
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\core\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\core\MyWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\appsettings.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Data\iceCreams.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Data\users.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.staticwebassets.runtime.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.exe
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.deps.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.runtimeconfig.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\MyWebApi.pdb
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.AssemblyReference.cache
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfoInputs.cache
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.AssemblyInfo.cs
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.CoreCompileInputs.cache
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApi.props
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\scopedcss\bundle\MyWebApi.styles.css
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.csproj.Up2Date
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\refint\MyWebApi.dll
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
+E:\core\סופי סופי סופי!!!!!\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+Z:\B\ולדמן לאה\core\MyWebApi\obj\Debug\net8.0\MyWebApi.sourcelink.json

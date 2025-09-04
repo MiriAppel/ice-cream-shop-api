@@ -2,7 +2,7 @@
 
 A comprehensive full-stack web application for managing an ice cream shop inventory with user authentication and role-based access control.
 
-## 🚀 Key Features
+## Key Features
 - **RESTful API** with complete CRUD operations
 - **JWT Authentication & Authorization** with Admin/User roles
 - **Interactive Frontend** with dynamic content loading
@@ -11,14 +11,14 @@ A comprehensive full-stack web application for managing an ice cream shop invent
 - **Custom middleware** for request logging
 - **JSON file-based data persistence**
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend:** ASP.NET Core 8 Web API
 - **Authentication:** JWT Bearer tokens with role-based claims
 - **Frontend:** Vanilla JavaScript, HTML5, CSS3
 - **Documentation:** Swagger/OpenAPI 3.0
 - **Architecture:** Clean Architecture with Services & Interfaces
 
-## 📋 API Endpoints
+## API Endpoints
 
 ### Ice Cream Management
 - `GET /IceCream` - Get all ice creams (User)
@@ -34,13 +34,13 @@ A comprehensive full-stack web application for managing an ice cream shop invent
 - `DELETE /User/{id}` - Delete user (Admin only)
 - `POST /login` - User authentication
 
-## 🔐 Security Features
+## Security Features
 - JWT token-based authentication
 - Role-based authorization (Admin/User policies)
 - Protected API endpoints
 - Secure user session management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - .NET 8 SDK
@@ -49,7 +49,7 @@ A comprehensive full-stack web application for managing an ice cream shop invent
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/ice-cream-shop-api.git
+git clone https://github.com/MiriAppel/ice-cream-shop-api.git
 ```
 
 2. Navigate to the project directory:
@@ -67,7 +67,7 @@ dotnet run
 - Swagger UI: `https://localhost:7083/swagger`
 - Frontend: `https://localhost:7083/index.html`
 
-## 📱 Usage
+## Usage
 1. Login to get JWT token (Admin password: "1234")
 2. Use the interactive frontend to manage ice cream inventory
 3. Test API endpoints using Swagger UI

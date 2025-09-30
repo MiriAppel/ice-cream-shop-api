@@ -51,17 +51,14 @@ A comprehensive full-stack web application for managing an ice cream shop invent
 ```bash
 git clone https://github.com/MiriAppel/ice-cream-shop-api.git
 ```
-
 2. Navigate to the project directory:
 ```bash
 cd ice-cream-shop-api
 ```
-
 3. Run the application:
 ```bash
 dotnet run
 ```
-
 4. Open your browser and navigate to:
 - API: `https://localhost:7083`
 - Swagger UI: `https://localhost:7083/swagger`
